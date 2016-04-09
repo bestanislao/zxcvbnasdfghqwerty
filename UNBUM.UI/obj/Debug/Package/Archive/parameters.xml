@@ -1,0 +1,9 @@
+﻿<parameters>
+  <parameter name="IIS Web Application Name" defaultValue="Default Web Site/UNBUM.UI_deploy" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\bestanislao\\Desktop\\UNBUM\\UNBUM\.UI\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\bestanislao\\Desktop\\UNBUM\\UNBUM\.UI\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="UNBUMDbContext-Web.config Connection String" description="UNBUMDbContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=192.168.41.171;Initial Catalog=TESTTutorialEF;Pooling=False;  User Id=ictsidevuser; Password = ictsidevp@ssw0rd; Integrated Security=False" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\bestanislao\\Desktop\\UNBUM\\UNBUM\.UI\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='UNBUMDbContext']/@connectionString" />
+  </parameter>
+</parameters>

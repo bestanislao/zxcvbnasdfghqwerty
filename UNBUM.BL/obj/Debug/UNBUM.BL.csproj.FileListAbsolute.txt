@@ -1,0 +1,41 @@
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.BL\bin\Debug\UNBUM.BL.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.BL\bin\Debug\UNBUM.BL.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.BL\bin\Debug\UNBUM.CORE.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.BL\bin\Debug\UNBUM.DAO.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.BL\bin\Debug\UNBUM.CORE.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.BL\bin\Debug\UNBUM.DAO.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.BL\obj\Debug\UNBUM.BL.csprojResolveAssemblyReference.cache
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.BL\obj\Debug\UNBUM.BL.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.BL\obj\Debug\UNBUM.BL.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.BL\bin\Debug\EntityFramework.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.BL\bin\Debug\EntityFramework.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\bin\Debug\UNBUM.BL.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\bin\Debug\UNBUM.BL.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\bin\Debug\UNBUM.CORE.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\bin\Debug\UNBUM.DAO.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\bin\Debug\EntityFramework.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\bin\Debug\UNBUM.CORE.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\bin\Debug\UNBUM.DAO.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\bin\Debug\EntityFramework.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\obj\Debug\UNBUM.BL.csprojResolveAssemblyReference.cache
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\obj\Debug\UNBUM.BL.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.BL\obj\Debug\UNBUM.BL.pdb
+D:\unbum\trunk\UNBUM.BL\bin\Debug\UNBUM.BL.dll
+D:\unbum\trunk\UNBUM.BL\bin\Debug\UNBUM.BL.pdb
+D:\unbum\trunk\UNBUM.BL\bin\Debug\UNBUM.CORE.dll
+D:\unbum\trunk\UNBUM.BL\bin\Debug\UNBUM.DAO.dll
+D:\unbum\trunk\UNBUM.BL\bin\Debug\EntityFramework.dll
+D:\unbum\trunk\UNBUM.BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\unbum\trunk\UNBUM.BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\unbum\trunk\UNBUM.BL\bin\Debug\UNBUM.CORE.pdb
+D:\unbum\trunk\UNBUM.BL\bin\Debug\UNBUM.DAO.pdb
+D:\unbum\trunk\UNBUM.BL\bin\Debug\EntityFramework.xml
+D:\unbum\trunk\UNBUM.BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\unbum\trunk\UNBUM.BL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\unbum\trunk\UNBUM.BL\obj\Debug\UNBUM.BL.csprojResolveAssemblyReference.cache
+D:\unbum\trunk\UNBUM.BL\obj\Debug\UNBUM.BL.dll
+D:\unbum\trunk\UNBUM.BL\obj\Debug\UNBUM.BL.pdb

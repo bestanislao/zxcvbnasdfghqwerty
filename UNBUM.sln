@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNBUM.WebService", "UNBUM.WebService\UNBUM.WebService.csproj", "{23CF6D37-BD86-4D5D-B139-9143B2360C29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNBUM.UI", "UNBUM.UI\UNBUM.UI.csproj", "{CDAD077F-99C4-40DE-BC09-4B0ADB35ECA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNBUM.DAO", "UNBUM.DAO\UNBUM.DAO.csproj", "{E7C8A3A7-4FF5-4DB5-B60F-231189B1A9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNBUM.BL", "UNBUM.BL\UNBUM.BL.csproj", "{2325BF9D-B083-49D3-9A7F-DEB3F81A27E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNBUM.CORE", "UNBUM.CORE\UNBUM.CORE.csproj", "{8077BE1D-A475-48A9-9A91-87E189841255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNBUM.STARTUP", "UNBUM.STARTUP\UNBUM.STARTUP.csproj", "{BA1DFAB1-402A-4EDC-AD86-7A6079A7C69F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23CF6D37-BD86-4D5D-B139-9143B2360C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CF6D37-BD86-4D5D-B139-9143B2360C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CF6D37-BD86-4D5D-B139-9143B2360C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CF6D37-BD86-4D5D-B139-9143B2360C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDAD077F-99C4-40DE-BC09-4B0ADB35ECA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAD077F-99C4-40DE-BC09-4B0ADB35ECA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAD077F-99C4-40DE-BC09-4B0ADB35ECA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAD077F-99C4-40DE-BC09-4B0ADB35ECA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C8A3A7-4FF5-4DB5-B60F-231189B1A9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C8A3A7-4FF5-4DB5-B60F-231189B1A9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C8A3A7-4FF5-4DB5-B60F-231189B1A9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C8A3A7-4FF5-4DB5-B60F-231189B1A9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2325BF9D-B083-49D3-9A7F-DEB3F81A27E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2325BF9D-B083-49D3-9A7F-DEB3F81A27E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2325BF9D-B083-49D3-9A7F-DEB3F81A27E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2325BF9D-B083-49D3-9A7F-DEB3F81A27E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8077BE1D-A475-48A9-9A91-87E189841255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8077BE1D-A475-48A9-9A91-87E189841255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8077BE1D-A475-48A9-9A91-87E189841255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8077BE1D-A475-48A9-9A91-87E189841255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1DFAB1-402A-4EDC-AD86-7A6079A7C69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1DFAB1-402A-4EDC-AD86-7A6079A7C69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1DFAB1-402A-4EDC-AD86-7A6079A7C69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1DFAB1-402A-4EDC-AD86-7A6079A7C69F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bestanislao.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = UNBUM.BL\\UNBUM.BL.csproj
+		SccProjectName1 = UNBUM.BL
+		SccLocalPath1 = UNBUM.BL
+		SccProjectUniqueName2 = UNBUM.CORE\\UNBUM.CORE.csproj
+		SccProjectName2 = UNBUM.CORE
+		SccLocalPath2 = UNBUM.CORE
+		SccProjectUniqueName3 = UNBUM.DAO\\UNBUM.DAO.csproj
+		SccProjectName3 = UNBUM.DAO
+		SccLocalPath3 = UNBUM.DAO
+		SccProjectUniqueName4 = UNBUM.STARTUP\\UNBUM.STARTUP.csproj
+		SccProjectName4 = UNBUM.STARTUP
+		SccLocalPath4 = UNBUM.STARTUP
+		SccProjectUniqueName5 = UNBUM.UI\\UNBUM.UI.csproj
+		SccProjectName5 = UNBUM.UI
+		SccLocalPath5 = UNBUM.UI
+		SccProjectUniqueName6 = UNBUM.WebService\\UNBUM.WebService.csproj
+		SccProjectName6 = UNBUM.WebService
+		SccLocalPath6 = UNBUM.WebService
+	EndGlobalSection
+EndGlobal

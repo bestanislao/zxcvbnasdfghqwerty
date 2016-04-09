@@ -1,0 +1,74 @@
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.STARTUP.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.STARTUP.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\obj\Debug\UNBUM.STARTUP.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\obj\Debug\UNBUM.STARTUP.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.BL.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.DAO.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.BL.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.DAO.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\obj\Debug\UNBUM.STARTUP.csprojResolveAssemblyReference.cache
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.CORE.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\EntityFramework.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.CORE.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\EntityFramework.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.STARTUP.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.STARTUP.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.BL.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.DAO.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.CORE.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\EntityFramework.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.BL.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.DAO.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\UNBUM.CORE.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\EntityFramework.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\obj\Debug\UNBUM.STARTUP.csprojResolveAssemblyReference.cache
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\obj\Debug\UNBUM.STARTUP.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.STARTUP\obj\Debug\UNBUM.STARTUP.pdb
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\UNBUM.STARTUP.dll
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\UNBUM.STARTUP.pdb
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.dll
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\UNBUM.BL.dll
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\UNBUM.DAO.dll
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\UNBUM.CORE.dll
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\EntityFramework.dll
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\UNBUM.BL.pdb
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\UNBUM.DAO.pdb
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.xml
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\UNBUM.CORE.pdb
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\EntityFramework.xml
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\unbum\trunk\UNBUM.STARTUP\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\unbum\trunk\UNBUM.STARTUP\obj\Debug\UNBUM.STARTUP.csprojResolveAssemblyReference.cache
+D:\unbum\trunk\UNBUM.STARTUP\obj\Debug\UNBUM.STARTUP.dll
+D:\unbum\trunk\UNBUM.STARTUP\obj\Debug\UNBUM.STARTUP.pdb

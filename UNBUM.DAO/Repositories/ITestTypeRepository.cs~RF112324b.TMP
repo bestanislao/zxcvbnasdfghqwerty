@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UNBUM.DAO.Repositories
+{
+    public class TestTypeRepository
+     : GenericRepository<TestType, int>, ITestTypeRepository
+    {
+        public TestTypeRepository(IUnitOfWork unitOfWork)
+             : base(unitOfWork)
+        {
+        }
+    }
+}

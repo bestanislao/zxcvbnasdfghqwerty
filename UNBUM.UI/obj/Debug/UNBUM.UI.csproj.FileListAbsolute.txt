@@ -1,0 +1,306 @@
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\ApplicationInsights.config
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\roslyn\csc.exe
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\roslyn\vbc.exe
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\roslyn\VBCSCompiler.exe
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\UNBUM.UI.dll.config
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\UNBUM.UI.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\UNBUM.UI.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Antlr3.Runtime.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\EntityFramework.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\EntityFramework.SqlServer.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AI.Web.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.ApplicationInsights.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Newtonsoft.Json.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Owin.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\System.Web.Helpers.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\System.Web.Mvc.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\System.Web.Optimization.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\System.Web.Razor.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\System.Web.WebPages.Deployment.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\System.Web.WebPages.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\System.Web.WebPages.Razor.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\UNBUM.BL.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\UNBUM.CORE.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\WebGrease.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\UNBUM.BL.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\UNBUM.CORE.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AI.Web.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.ApplicationInsights.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\System.Web.Helpers.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\System.Web.Mvc.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\System.Web.Optimization.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\System.Web.Razor.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\System.Web.WebPages.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\System.Web.WebPages.Deployment.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\System.Web.WebPages.Razor.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Antlr3.Runtime.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Newtonsoft.Json.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\EntityFramework.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\EntityFramework.SqlServer.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\obj\Debug\UNBUM.UI.csprojResolveAssemblyReference.cache
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\obj\Debug\UNBUM.UI.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\obj\Debug\UNBUM.UI.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Practices.ServiceLocation.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.Configuration.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\UNBUM.STARTUP.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\UNBUM.DAO.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\UNBUM.STARTUP.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Practices.ServiceLocation.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.Configuration.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\UNBUM.DAO.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.Mvc.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\WebActivatorEx.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\ApplicationInsights.config
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\roslyn\csc.exe
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\roslyn\vbc.exe
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\UNBUM.UI.dll.config
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\UNBUM.UI.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\UNBUM.UI.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Antlr3.Runtime.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\EntityFramework.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AI.Web.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Newtonsoft.Json.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Owin.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\System.Web.Helpers.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\System.Web.Mvc.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\System.Web.Optimization.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\System.Web.Razor.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\System.Web.WebPages.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\UNBUM.BL.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\UNBUM.CORE.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\UNBUM.STARTUP.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\WebActivatorEx.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\WebGrease.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\UNBUM.DAO.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\UNBUM.BL.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\UNBUM.CORE.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\UNBUM.STARTUP.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AI.Web.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\System.Web.Helpers.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\System.Web.Mvc.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\System.Web.Optimization.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\System.Web.Razor.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\System.Web.WebPages.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Antlr3.Runtime.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Newtonsoft.Json.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\EntityFramework.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\bin\UNBUM.DAO.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\obj\Debug\UNBUM.UI.csprojResolveAssemblyReference.cache
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\obj\Debug\UNBUM.UI.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.UI\obj\Debug\UNBUM.UI.pdb
+D:\unbum\trunk\UNBUM.UI\bin\ApplicationInsights.config
+D:\unbum\trunk\UNBUM.UI\bin\roslyn\csc.exe
+D:\unbum\trunk\UNBUM.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\unbum\trunk\UNBUM.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\unbum\trunk\UNBUM.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\unbum\trunk\UNBUM.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\unbum\trunk\UNBUM.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\unbum\trunk\UNBUM.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\unbum\trunk\UNBUM.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\unbum\trunk\UNBUM.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\unbum\trunk\UNBUM.UI\bin\roslyn\vbc.exe
+D:\unbum\trunk\UNBUM.UI\bin\roslyn\VBCSCompiler.exe
+D:\unbum\trunk\UNBUM.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\unbum\trunk\UNBUM.UI\bin\UNBUM.UI.dll.config
+D:\unbum\trunk\UNBUM.UI\bin\UNBUM.UI.dll
+D:\unbum\trunk\UNBUM.UI\bin\UNBUM.UI.pdb
+D:\unbum\trunk\UNBUM.UI\bin\Antlr3.Runtime.dll
+D:\unbum\trunk\UNBUM.UI\bin\EntityFramework.dll
+D:\unbum\trunk\UNBUM.UI\bin\EntityFramework.SqlServer.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AI.DependencyCollector.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AI.Web.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AI.WindowsServer.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.ApplicationInsights.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Security.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Security.Google.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Practices.Unity.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\unbum\trunk\UNBUM.UI\bin\Newtonsoft.Json.dll
+D:\unbum\trunk\UNBUM.UI\bin\Owin.dll
+D:\unbum\trunk\UNBUM.UI\bin\System.Web.Helpers.dll
+D:\unbum\trunk\UNBUM.UI\bin\System.Web.Mvc.dll
+D:\unbum\trunk\UNBUM.UI\bin\System.Web.Optimization.dll
+D:\unbum\trunk\UNBUM.UI\bin\System.Web.Razor.dll
+D:\unbum\trunk\UNBUM.UI\bin\System.Web.WebPages.Deployment.dll
+D:\unbum\trunk\UNBUM.UI\bin\System.Web.WebPages.dll
+D:\unbum\trunk\UNBUM.UI\bin\System.Web.WebPages.Razor.dll
+D:\unbum\trunk\UNBUM.UI\bin\UNBUM.BL.dll
+D:\unbum\trunk\UNBUM.UI\bin\UNBUM.CORE.dll
+D:\unbum\trunk\UNBUM.UI\bin\UNBUM.STARTUP.dll
+D:\unbum\trunk\UNBUM.UI\bin\WebActivatorEx.dll
+D:\unbum\trunk\UNBUM.UI\bin\WebGrease.dll
+D:\unbum\trunk\UNBUM.UI\bin\UNBUM.DAO.dll
+D:\unbum\trunk\UNBUM.UI\bin\UNBUM.BL.pdb
+D:\unbum\trunk\UNBUM.UI\bin\UNBUM.CORE.pdb
+D:\unbum\trunk\UNBUM.UI\bin\UNBUM.STARTUP.pdb
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AI.DependencyCollector.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AI.Web.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AI.WindowsServer.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.ApplicationInsights.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Practices.ServiceLocation.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Practices.Unity.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\unbum\trunk\UNBUM.UI\bin\System.Web.Helpers.xml
+D:\unbum\trunk\UNBUM.UI\bin\System.Web.Mvc.xml
+D:\unbum\trunk\UNBUM.UI\bin\System.Web.Optimization.xml
+D:\unbum\trunk\UNBUM.UI\bin\System.Web.Razor.xml
+D:\unbum\trunk\UNBUM.UI\bin\System.Web.WebPages.xml
+D:\unbum\trunk\UNBUM.UI\bin\System.Web.WebPages.Deployment.xml
+D:\unbum\trunk\UNBUM.UI\bin\System.Web.WebPages.Razor.xml
+D:\unbum\trunk\UNBUM.UI\bin\Antlr3.Runtime.pdb
+D:\unbum\trunk\UNBUM.UI\bin\Newtonsoft.Json.xml
+D:\unbum\trunk\UNBUM.UI\bin\EntityFramework.xml
+D:\unbum\trunk\UNBUM.UI\bin\EntityFramework.SqlServer.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Security.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Security.Google.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\unbum\trunk\UNBUM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\unbum\trunk\UNBUM.UI\bin\UNBUM.DAO.pdb
+D:\unbum\trunk\UNBUM.UI\obj\Debug\UNBUM.UI.csprojResolveAssemblyReference.cache
+D:\unbum\trunk\UNBUM.UI\obj\Debug\UNBUM.UI.dll
+D:\unbum\trunk\UNBUM.UI\obj\Debug\UNBUM.UI.pdb

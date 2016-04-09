@@ -1,0 +1,44 @@
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.DAO\bin\Debug\UNBUM.DAO.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.DAO\bin\Debug\UNBUM.DAO.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.DAO\bin\Debug\UNBUM.CORE.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.DAO\bin\Debug\UNBUM.CORE.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.DAO\obj\Debug\UNBUM.DAO.csprojResolveAssemblyReference.cache
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.DAO\obj\Debug\UNBUM.DAO.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.DAO\obj\Debug\UNBUM.DAO.pdb
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.DAO\bin\Debug\UNBUM.DAO.dll.config
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.DAO\bin\Debug\EntityFramework.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.DAO\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.DAO\bin\Debug\EntityFramework.xml
+c:\Users\bestanislao.indra\documents\visual studio 2015\Projects\UNBUM\UNBUM.DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\bin\Debug\UNBUM.DAO.dll.config
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\bin\Debug\UNBUM.DAO.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\bin\Debug\UNBUM.DAO.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\bin\Debug\EntityFramework.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\bin\Debug\UNBUM.CORE.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\bin\Debug\UNBUM.CORE.pdb
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\bin\Debug\EntityFramework.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\obj\Debug\UNBUM.DAO.csprojResolveAssemblyReference.cache
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\obj\Debug\UNBUM.DAO.dll
+C:\Users\bestanislao\Desktop\UNBUM\UNBUM.DAO\obj\Debug\UNBUM.DAO.pdb
+D:\unbum\trunk\UNBUM.DAO\bin\Debug\UNBUM.DAO.dll.config
+D:\unbum\trunk\UNBUM.DAO\bin\Debug\UNBUM.DAO.dll
+D:\unbum\trunk\UNBUM.DAO\bin\Debug\UNBUM.DAO.pdb
+D:\unbum\trunk\UNBUM.DAO\bin\Debug\EntityFramework.dll
+D:\unbum\trunk\UNBUM.DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\unbum\trunk\UNBUM.DAO\bin\Debug\UNBUM.CORE.dll
+D:\unbum\trunk\UNBUM.DAO\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\unbum\trunk\UNBUM.DAO\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\unbum\trunk\UNBUM.DAO\bin\Debug\UNBUM.CORE.pdb
+D:\unbum\trunk\UNBUM.DAO\bin\Debug\EntityFramework.xml
+D:\unbum\trunk\UNBUM.DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\unbum\trunk\UNBUM.DAO\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\unbum\trunk\UNBUM.DAO\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\unbum\trunk\UNBUM.DAO\obj\Debug\UNBUM.DAO.csprojResolveAssemblyReference.cache
+D:\unbum\trunk\UNBUM.DAO\obj\Debug\UNBUM.DAO.dll
+D:\unbum\trunk\UNBUM.DAO\obj\Debug\UNBUM.DAO.pdb
