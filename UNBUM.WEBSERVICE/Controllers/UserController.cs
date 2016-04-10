@@ -46,6 +46,7 @@ namespace UNBUM.WEBSERVICE.Controllers
                 var userProfile = Mapper.Map<UserProfile, UserProfileVM>(result);
                 userProfile.Email = model.Email;
                 userProfile.UserName = model.UserName;
+                userProfile.FacebookId = model.FacebookId;
                 return userProfile;
             }
             catch (Exception e)

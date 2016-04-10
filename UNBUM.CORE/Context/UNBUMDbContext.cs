@@ -20,7 +20,7 @@ namespace UNBUM.CORE.Context
         {
             Database.SetInitializer<UNBUMDbContext>(new DBInitializer());
         }
-        
+
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -29,16 +29,27 @@ namespace UNBUM.CORE.Context
             modelBuilder.Entity<CustomerTransaction>()
                    .HasMany<CustomerCharges>(s => s.CustomerCharges);
 
-            modelBuilder.Entity<IdentityUser>().ToTable("Users").Property(p => p.Id).HasColumnName("UserId");
+            var user = modelBuilder.Entity<IdentityUser>().ToTable("Users");
+
+            user.Property(iu => iu.Id).HasColumnName("UserId");
+            user.Ignore(iu => iu.SecurityStamp);
+            user.Ignore(iu => iu.PhoneNumber);
+            user.Ignore(iu => iu.PhoneNumberConfirmed);
+            user.Ignore(iu => iu.TwoFactorEnabled);
+            user.Ignore(iu => iu.LockoutEndDateUtc);
+            user.Ignore(iu => iu.LockoutEnabled);
+            user.Ignore(iu => iu.AccessFailedCount);
+
             modelBuilder.Entity<ApplicationUser>().ToTable("Users").Property(p => p.Id).HasColumnName("UserId");
             modelBuilder.Entity<IdentityUserRole>().HasKey(x => x.RoleId).ToTable("UserRoles");
             modelBuilder.Entity<IdentityUserLogin>().HasKey(x => x.UserId).ToTable("UserLogins");
-            modelBuilder.Entity<IdentityUserClaim>().ToTable("UserClaims");
             modelBuilder.Entity<IdentityRole>().ToTable("Roles");
             modelBuilder.Entity<UserProfile>().ToTable("UserProfile");
             modelBuilder.Entity<Services>().ToTable("Services");
             modelBuilder.Entity<RequestService>().ToTable("RequestService");
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
+
+
 
             Database.SetInitializer(new DBInitializer());
         }

@@ -157,9 +157,7 @@ namespace UNBUM.UI.Controllers
                     var user = new ApplicationUser
                     {
                         UserName = model.Email,
-                        Email = model.Email,
-                        FirstName = model.FirstName,
-                        LastName = model.LastName
+                        Email = model.Email
                     };
                     var result = await UserManager.CreateAsync(user, model.Password);
                     if (result.Succeeded)

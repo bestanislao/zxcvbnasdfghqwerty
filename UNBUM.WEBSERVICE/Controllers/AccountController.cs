@@ -361,6 +361,7 @@ namespace UNBUM.WEBSERVICE.Controllers
         {
             var user = new ApplicationUser() { UserName = vm.UserName, Email = vm.Email };
             HttpResponseMessage response = new HttpResponseMessage();
+            user.FacebookId = vm.FacebookId;
             IdentityResult result = await UserManager.CreateAsync(user, vm.Password);
             if (!result.Succeeded)
             {
@@ -386,7 +387,6 @@ namespace UNBUM.WEBSERVICE.Controllers
                     client.DefaultRequestHeaders.Accept.Clear();
                     client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
                     vm.UserId = user.Id;
-                    user.FacebookId = "34225877-d751-4a7d-b95c-fc70092ac4a1";
                     response = client.PostAsync<UserProfileVM>("User/Register/", vm, new JsonMediaTypeFormatter()).Result;
 
                     if (!response.IsSuccessStatusCode)
@@ -413,9 +413,7 @@ namespace UNBUM.WEBSERVICE.Controllers
             CreateAccount("111111aA!");
 
             ApplicationUser a = AssignUser(vm, user);
-            a.Id = vm.UserId;
-            a.FirstName = "bryan";
-            a.LastName = "estanislao";
+            a.Id = vm.UserId;   
             var store = new UserStore<ApplicationUser>(new UNBUMDbContext());
             var ctx = store.Context;
             ctx.Entry(a).State = EntityState.Modified;
