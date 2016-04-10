@@ -66,6 +66,7 @@
     <Compile Include="Accounts\Roles.cs" />
     <Compile Include="Accounts\UserProfile.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="Common\Constants.cs" />
     <Compile Include="Common\MyPasswordHasher.cs" />
     <Compile Include="Context\UNBUMDbContext.cs" />
     <Compile Include="Initializer\DBInitializer.cs" />
@@ -77,6 +78,8 @@
     <Compile Include="Types\CustomerCharges.cs" />
     <Compile Include="Types\CustomerTransaction.cs" />
     <Compile Include="Types\EntityBase.cs" />
+    <Compile Include="Types\Payment.cs" />
+    <Compile Include="Types\ReferenceTable.cs" />
     <Compile Include="Types\RequestService.cs" />
     <Compile Include="Types\Services.cs" />
     <Compile Include="Types\SystemParameter.cs" />

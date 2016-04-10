@@ -54,8 +54,7 @@ namespace UNBUM.WEBSERVICE.Controllers
 
                 throw e;
             }
-
-            return null;
+            
         }
 
         private ActionResult Json(UserProfile result, JsonRequestBehavior allowGet)

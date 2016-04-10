@@ -28,6 +28,9 @@ namespace UNBUM.CORE.Context
             //one-to-many 
             modelBuilder.Entity<CustomerTransaction>()
                    .HasMany<CustomerCharges>(s => s.CustomerCharges);
+            modelBuilder.Entity<ReferenceTable>();
+            modelBuilder.Entity<Roles>();
+
 
             var user = modelBuilder.Entity<IdentityUser>().ToTable("Users");
 
