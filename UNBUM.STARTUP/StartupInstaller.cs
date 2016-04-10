@@ -33,8 +33,8 @@ namespace UNBUM.STARTUP
             container.RegisterType<ICustomerTransactionRepository, CustomerTransactionRepository>(new ContainerControlledLifetimeManager());
             container.RegisterType<ISystemParameterRepository, SystemParameterRepository>(new ContainerControlledLifetimeManager());
             container.RegisterType<IRequestServiceRepository, RequestServiceRepository>(new ContainerControlledLifetimeManager());
-        
-            
+            container.RegisterType<IPaymentRepository, PaymentRepository>(new ContainerControlledLifetimeManager());
+
             #endregion End Repository
 
             #region Workflow

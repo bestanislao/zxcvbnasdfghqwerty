@@ -65,10 +65,12 @@
     <Compile Include="Repositories\Interfaces\ICustomerChargesRepository.cs" />
     <Compile Include="Repositories\Interfaces\ICustomerTransactionRepository.cs" />
     <Compile Include="Repositories\Interfaces\IApplicationUserRepository.cs" />
+    <Compile Include="Repositories\Interfaces\IPaymentRepository.cs" />
     <Compile Include="Repositories\Interfaces\IRequestServiceRepository.cs" />
     <Compile Include="Repositories\Interfaces\IServicesRepository.cs" />
     <Compile Include="Repositories\Interfaces\ISystemParameterRepository.cs" />
     <Compile Include="Repositories\Interfaces\IUserProfileRepository.cs" />
+    <Compile Include="Repositories\PaymentRepository.cs" />
     <Compile Include="Repositories\RequestServiceRepository.cs" />
     <Compile Include="Repositories\ServicesRepository.cs" />
     <Compile Include="Repositories\SystemParameterRepository.cs" />
