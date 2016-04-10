@@ -30,7 +30,7 @@ namespace UNBUM.CORE.Context
                    .HasMany<CustomerCharges>(s => s.CustomerCharges);
             modelBuilder.Entity<ReferenceTable>();
             modelBuilder.Entity<Roles>();
-
+            modelBuilder.Entity<Payment>();
 
             var user = modelBuilder.Entity<IdentityUser>().ToTable("Users");
 
